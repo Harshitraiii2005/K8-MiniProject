@@ -71,7 +71,7 @@ docker login
 Push:
 
 ```bash
-docker push harshitrai20/myapp:latest
+docker push addusername/myapp:latest
 ```
 
 ---
