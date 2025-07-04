@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: kubernetes-test-app
-        image: harshitrai20/myapp:latest
+        image: addusername/myapp:latest
         imagePullPolicy: Always  
         resources: 
           requests:
