@@ -95,7 +95,7 @@ spec:
     spec:
       containers:
       - name: flask-app
-        image: harshitrai20/myapp:latest
+        image: addusername/myapp:latest
         imagePullPolicy: Always
         ports:
         - containerPort: 5000
